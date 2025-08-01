@@ -129,6 +129,11 @@
 				<Layers>GH:tamil_nadu_tamil_nadu_districts</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:tnea_college_shapefile</Name>
+				<Title>tnea_college_shapefile</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
